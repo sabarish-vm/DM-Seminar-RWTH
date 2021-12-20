@@ -1,0 +1,2 @@
+actions:
+ - inline_commands: sh initialize.sh
