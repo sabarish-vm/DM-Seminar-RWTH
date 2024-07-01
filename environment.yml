@@ -1,0 +1,8 @@
+name: python 3.8
+dependencies:
+  - numpy
+  - scipy
+  - cython
+  - classy
+  - matplotlib
+  - aquirdturtle_collapsible_headings
