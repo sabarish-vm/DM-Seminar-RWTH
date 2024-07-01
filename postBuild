@@ -1,3 +1,4 @@
 #!/bin/bash
+## A shell script that can be run post building the binder environment
+## Add lines if needed
 set -ex
-sh initialize.sh
