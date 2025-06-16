@@ -2,10 +2,10 @@ name: python3.10
 dependencies:
   - python=3.10
   - pip
+  - numpy
+  - scipy 
+  - cython
+  - matplotlib
   - pip:
-    - numpy
-    - scipy
-    - cython
     - classy
-    - matplotlib
     - aquirdturtle_collapsible_headings
